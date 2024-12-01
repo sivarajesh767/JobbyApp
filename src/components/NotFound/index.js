@@ -1,4 +1,4 @@
-import '../Header'
+import Header from '../Header'
 import './index.css'
 
 const NotFound=()=>(
