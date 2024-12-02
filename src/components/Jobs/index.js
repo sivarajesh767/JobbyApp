@@ -131,7 +131,7 @@ class Jobs extends Component {
     </div>
   )
   renderLoadingView = (
-    <div data-testid="">
+    <div data-testid="loader">
       <Loader type="ThreeDotts" height="50" width="50" />
     </div>
   )
